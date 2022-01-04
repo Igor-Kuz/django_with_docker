@@ -35,3 +35,7 @@ doc-dev
 
 *.log
 .log
+
+
+.env.prod
+.env.prod.db
