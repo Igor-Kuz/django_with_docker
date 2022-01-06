@@ -1,7 +1,6 @@
 .idea
 idea
 .DS_Store
-.env.dev
 
 *.egg-info/
 .installed.cfg
@@ -35,7 +34,3 @@ doc-dev
 
 *.log
 .log
-
-
-.env.prod
-.env.prod.db
